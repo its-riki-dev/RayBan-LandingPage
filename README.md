@@ -1,6 +1,8 @@
 # Ray-Ban - Landing Page
 
-This project is a visually captivating showcase for Ray-Ban, featuring dynamic animations and a fully responsive design. Developed with HTML, CSS, and JavaScript, it leverages the Shery.js library for advanced image effects and GSAP for seamless animations. The website delivers an immersive user experience with elegant transitions, smooth interactions, and a sleek, modern aesthetic.
+This project is a visually striking showcase for Ray-Ban, designed with dynamic animations and a fully responsive layout. Built using HTML, CSS, and JavaScript, it integrates Shery.js for advanced image effects and GSAP for seamless, high-performance animations.
+
+With elegant transitions, smooth interactions, and a sleek modern aesthetic, the website delivers an immersive user experience, making it both engaging and visually compelling.
 
 ![HomeSS](Assets/Images/heropage.png)
 
